@@ -1,0 +1,30 @@
+ ________  ________  ________  ________  _______  _________  _________  ________          ________  ___       ________      ___    ___ ___       ___  ________  _________        ________  ________  ________  _________  ___  ________ ___    ___ 
+|\   __  \|\   __  \|\   __  \|\   ____\|\  ___ \|\___   ___\\___   ___\\   __  \        |\   __  \|\  \     |\   __  \    |\  \  /  /|\  \     |\  \|\   ____\|\___   ___\     |\   ____\|\   __  \|\   __  \|\___   ___\\  \|\  _____\\  \  /  /|
+\ \  \|\  \ \  \|\  \ \  \|\  \ \  \___|\ \   __/\|___ \  \_\|___ \  \_\ \  \|\  \       \ \  \|\  \ \  \    \ \  \|\  \   \ \  \/  / | \  \    \ \  \ \  \___|\|___ \  \_|     \ \  \___|\ \  \|\  \ \  \|\  \|___ \  \_\ \  \ \  \__/\ \  \/  / /
+ \ \   ____\ \   _  _\ \  \\\  \ \  \  __\ \  \_|/__  \ \  \     \ \  \ \ \  \\\  \       \ \   ____\ \  \    \ \   __  \   \ \    / / \ \  \    \ \  \ \_____  \   \ \  \       \ \_____  \ \   ____\ \  \\\  \   \ \  \ \ \  \ \   __\\ \    / / 
+  \ \  \___|\ \  \\  \\ \  \\\  \ \  \|\  \ \  \_|\ \  \ \  \     \ \  \ \ \  \\\  \       \ \  \___|\ \  \____\ \  \ \  \   \/  /  /   \ \  \____\ \  \|____|\  \   \ \  \       \|____|\  \ \  \___|\ \  \\\  \   \ \  \ \ \  \ \  \_| \/  /  /  
+   \ \__\    \ \__\\ _\\ \_______\ \_______\ \_______\  \ \__\     \ \__\ \ \_______\       \ \__\    \ \_______\ \__\ \__\__/  / /      \ \_______\ \__\____\_\  \   \ \__\        ____\_\  \ \__\    \ \_______\   \ \__\ \ \__\ \__\__/  / /    
+    \|__|     \|__|\|__|\|_______|\|_______|\|_______|   \|__|      \|__|  \|_______|        \|__|     \|_______|\|__|\|__|\___/ /        \|_______|\|__|\_________\   \|__|       |\_________\|__|     \|_______|    \|__|  \|__|\|__|\___/ /     
+                                                                                                                          \|___|/                       \|_________|               \|_________|                                       \|___|/      
+                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                   
+Questa è una semplice pagina HTML che illustra come caricare playlist in modo dinamico utilizzando AJAX, Permette di caricare diverse playlist cliccando sui pulsanti.
+
+Prerequisiti
+Per eseguire questo progetto, sono necessari i seguenti elementi:
+
+* Un browser web (ad esempio, Google Chrome, Mozilla Firefox) per visualizzare la pagina HTML.
+* Accesso a Internet per caricare le librerie CSS e JavaScript necessarie.
+* Un server web per ospitare il progetto in modo che funzioni correttamente come ad esempio XAMPP.
+
+
+Per eseguire questo progetto utilizzando XAMPP, segui i seguenti passaggi:
+
+- Assicurati di avere installato XAMPP sul tuo computer.
+- Avvia il pannello di controllo di XAMPP e avvia il servizio Apache.
+- Trascina l'intera cartella che contiene le pagine HTML nella directory htdocs, che si trova nella directory di installazione di XAMPP.
+- Apri il tuo browser web e visita l'indirizzo http://localhost/nome_cartella dove nome_cartella è il nome della cartella che hai trascinato in htdocs.
+- Se hai seguit i passaggi alla lettera vedrai una pagina con il titolo "Playlist Spotify" e tre pulsanti denominati "Carica Playlist 8D", "Carica Playlist Reggaeton" e "Carica Playlist Custom".
+- Clicca su uno dei pulsanti per caricare la playlist corrispondente in modo dinamico nella sezione sottostante.
+
+Grazie per aver utilizzato il mio progetto e spero che ti sia utile per capire il caricamento delle playlist in modo dinamico con l'utilizzo del metodo ajax!
