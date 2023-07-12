@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Esempio Captcha</title>
+		  <script src="captcha.js"></script>
+			<style>
+				#captchaText::selection {
+				background-color: transparent;
+				}
+			</style>
+	</head>
+	
+	<body onload="generaCaptcha()">
+		<h1>Esempio Captcha</h1>
+	
+		<p>Scrivi i caratteri che stanno sotto:</p>
+		<p id="captchaText" onselectstart="return false;" onmousedown="return false;"></p>
+		<input type="text" id="userCaptcha" placeholder="Scrivi i caratteri.">
+	
+		<button onclick="validaCaptcha()">Submit</button>
+		
+	</body>
+</html>
